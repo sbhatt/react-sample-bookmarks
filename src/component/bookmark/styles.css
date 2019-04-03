@@ -1,0 +1,20 @@
+.filter-tags {
+  margin-left: 15px;
+}
+
+.hide{
+  display: none;
+}
+
+.show{
+  display:block;
+}
+
+#bookmarkContainer{
+  background-color: azure;
+}
+
+.fieldset-padding{
+  padding-left: 10px;
+  padding-top: 10px;
+}

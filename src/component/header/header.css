@@ -1,0 +1,33 @@
+.logo{
+  height: 30px;
+  width: 30px;
+}
+
+.header{
+  background-color:skyblue;
+  margin: 0 0 0 0;
+  padding: 0 0 0 0;
+  vertical-align: top;
+  text-align: left;
+  display: flex;
+  position: relative;
+}
+
+.header a{
+  vertical-align: top;
+}
+
+.header ul{
+  margin: 0 0 0 0;
+  margin-left: 10px;
+  padding: 5px 0 0 0;
+  vertical-align: middle;
+}
+
+.header li{
+  display: inline;
+  vertical-align: middle;
+  margin: 0 0 0 0;
+  padding: 0 0 0 0;  
+  margin-left: 15px;
+}
